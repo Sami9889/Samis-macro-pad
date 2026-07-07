@@ -1,6 +1,6 @@
 # SamiPad
 
-A clean, minimal, handy macropad by **Samrath "Sami" Singh** for times when 104 keys aren't enough 
+A clean, minimal, handy macropad by **me** for times when 104 keys aren't enough 
 
 *(or just an easier way to copy and paste)* 
 
