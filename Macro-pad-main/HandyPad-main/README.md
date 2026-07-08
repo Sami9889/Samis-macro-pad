@@ -1,6 +1,6 @@
 # SamiPad
 
-A clean, minimal, handy macropad by **me** for times when 104 keys aren't enough 
+A clean, minimal, handy macropad by **me**
 
 *(or just an easier way to copy and paste)* 
 
@@ -100,6 +100,7 @@ When I was designing the PCB I wanted to make this macropad as compact as possib
 ## Credits
 
 Big shout out to **Hack Club** and the **Hackpad** program for giving me the opportunity to make this macropad.
+original design (https://github.com/nilaynagh8-del/HandyPad)
 
 ---
 
